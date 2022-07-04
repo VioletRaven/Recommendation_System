@@ -1,6 +1,10 @@
 # Introduction
 Hybrid recommendation based system that implements state-of-the-art NLP embedding methods to classify and suggest most related documents to users.
 
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/34713088/177145390-bd34f24a-856a-4c76-a267-b79c26ac6f0e.png" width="850" height="2100">
+
+
 ### Built With
 
 The following technologies, frameworks and libraries have been used:
