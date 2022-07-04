@@ -1,0 +1,400 @@
+ID,Gradi,Eta,Sesso,tipi_di_pdf,categorie,Codice_Regione
+ID1,generale,19,0,western,Informazioni e Sicurezza,11
+ID2,colonnello,31,0,sci-fi,Area Giuridico-Legale,10
+ID3,colonnello,29,1,fantascientifico,Informazioni e Sicurezza,12
+ID4,colonnello,32,0,sci-fi,Tutela della Salute,17
+ID5,colonnello,54,0,romantico,Informazioni e Sicurezza,19
+ID6,colonnello,56,1,fantasy,Area Giuridico-Legale,1
+ID7,colonnello,40,0,romantico,Attività Finanziaria,13
+ID8,colonnello,57,0,western,Area Giuridico-Legale,10
+ID9,colonnello,63,1,romantico,Informazioni e Sicurezza,12
+ID10,colonnello,25,1,western,Tutela della Salute,9
+ID11,colonnello,63,0,azione,Attività Finanziaria,10
+ID12,colonnello,26,1,western,Area Giuridico-Legale,8
+ID13,colonnello,44,0,western,Tutela della Salute,13
+ID14,colonnello,47,1,fantasy,Tutela della Salute,15
+ID15,colonnello,29,1,romantico,Area Giuridico-Legale,8
+ID16,colonnello,65,1,azione,Area Giuridico-Legale,12
+ID17,colonnello,26,0,fantascientifico,Attività Finanziaria,2
+ID18,colonnello,59,1,azione,Area Giuridico-Legale,13
+ID19,colonnello,43,0,sci-fi,Tutela della Salute,2
+ID20,colonnello,20,0,thriller,Attività Finanziaria,17
+ID21,colonnello,69,1,thriller,Tutela della Salute,16
+ID22,colonnello,61,0,sci-fi,Tutela della Salute,3
+ID23,colonnello,43,0,fantascientifico,Tutela della Salute,18
+ID24,tenente colonnello,19,1,western,Attività Finanziaria,7
+ID25,tenente colonnello,29,0,romantico,Informazioni e Sicurezza,5
+ID26,tenente colonnello,24,0,fantasy,Attività Finanziaria,16
+ID27,tenente colonnello,32,1,romantico,Attività Finanziaria,19
+ID28,tenente colonnello,39,1,fantasy,Tutela della Salute,20
+ID29,tenente colonnello,52,1,romantico,Area Giuridico-Legale,14
+ID30,tenente colonnello,28,0,western,Attività Finanziaria,18
+ID31,tenente colonnello,46,0,sci-fi,Tutela della Salute,11
+ID32,tenente colonnello,53,1,fantascientifico,Attività Finanziaria,17
+ID33,tenente colonnello,39,0,fantasy,Attività Finanziaria,9
+ID34,tenente colonnello,33,0,fantasy,Area Giuridico-Legale,13
+ID35,tenente colonnello,46,1,fantascientifico,Informazioni e Sicurezza,14
+ID36,tenente colonnello,56,1,thriller,Tutela della Salute,20
+ID37,tenente colonnello,39,0,western,Attività Finanziaria,10
+ID38,tenente colonnello,46,0,azione,Area Giuridico-Legale,4
+ID39,tenente colonnello,50,1,fantascientifico,Tutela della Salute,9
+ID40,tenente colonnello,56,1,western,Attività Finanziaria,11
+ID41,tenente colonnello,41,0,fantascientifico,Attività Finanziaria,5
+ID42,tenente colonnello,61,0,western,Tutela della Salute,12
+ID43,tenente colonnello,20,1,sci-fi,Attività Finanziaria,14
+ID44,tenente colonnello,71,0,sci-fi,Informazioni e Sicurezza,14
+ID45,tenente colonnello,35,0,fantasy,Area Giuridico-Legale,14
+ID46,tenente colonnello,69,0,sci-fi,Attività Finanziaria,10
+ID47,tenente colonnello,60,1,thriller,Tutela della Salute,7
+ID48,tenente colonnello,36,1,fantasy,Tutela della Salute,12
+ID49,tenente colonnello,22,0,azione,Informazioni e Sicurezza,10
+ID50,tenente colonnello,66,0,western,Informazioni e Sicurezza,8
+ID51,tenente colonnello,58,0,fantasy,Tutela della Salute,10
+ID52,tenente colonnello,32,1,thriller,Attività Finanziaria,17
+ID53,tenente colonnello,26,1,thriller,Attività Finanziaria,14
+ID54,tenente colonnello,67,0,azione,Area Giuridico-Legale,5
+ID55,tenente colonnello,53,0,azione,Informazioni e Sicurezza,7
+ID56,tenente colonnello,67,0,thriller,Area Giuridico-Legale,4
+ID57,tenente colonnello,31,1,fantasy,Tutela della Salute,12
+ID58,tenente colonnello,38,0,western,Tutela della Salute,1
+ID59,tenente colonnello,54,0,romantico,Attività Finanziaria,11
+ID60,tenente colonnello,61,0,fantascientifico,Attività Finanziaria,20
+ID61,tenente colonnello,49,0,fantasy,Informazioni e Sicurezza,1
+ID62,tenente colonnello,37,0,romantico,Attività Finanziaria,11
+ID63,tenente colonnello,54,0,sci-fi,Informazioni e Sicurezza,12
+ID64,tenente colonnello,41,1,western,Area Giuridico-Legale,12
+ID65,tenente colonnello,26,1,romantico,Attività Finanziaria,4
+ID66,tenente colonnello,63,1,azione,Area Giuridico-Legale,19
+ID67,tenente colonnello,45,0,sci-fi,Tutela della Salute,18
+ID68,tenente colonnello,54,1,romantico,Attività Finanziaria,5
+ID69,maggiore,21,0,thriller,Area Giuridico-Legale,17
+ID70,maggiore,27,1,western,Tutela della Salute,9
+ID71,maggiore,32,1,fantascientifico,Area Giuridico-Legale,10
+ID72,maggiore,25,1,western,Area Giuridico-Legale,7
+ID73,maggiore,29,1,azione,Informazioni e Sicurezza,3
+ID74,maggiore,50,1,fantasy,Informazioni e Sicurezza,15
+ID75,maggiore,30,0,thriller,Informazioni e Sicurezza,14
+ID76,maggiore,27,0,sci-fi,Area Giuridico-Legale,3
+ID77,maggiore,19,0,fantasy,Tutela della Salute,12
+ID78,maggiore,58,1,fantasy,Informazioni e Sicurezza,4
+ID79,maggiore,45,1,romantico,Area Giuridico-Legale,8
+ID80,maggiore,34,1,fantascientifico,Area Giuridico-Legale,19
+ID81,maggiore,25,1,azione,Attività Finanziaria,5
+ID82,maggiore,62,1,azione,Informazioni e Sicurezza,17
+ID83,maggiore,47,0,western,Tutela della Salute,12
+ID84,maggiore,66,1,fantasy,Informazioni e Sicurezza,11
+ID85,maggiore,27,0,sci-fi,Informazioni e Sicurezza,6
+ID86,maggiore,19,1,thriller,Tutela della Salute,19
+ID87,maggiore,31,0,fantascientifico,Informazioni e Sicurezza,1
+ID88,maggiore,29,1,sci-fi,Informazioni e Sicurezza,18
+ID89,maggiore,20,0,romantico,Area Giuridico-Legale,5
+ID90,maggiore,35,1,romantico,Attività Finanziaria,5
+ID91,maggiore,24,1,western,Informazioni e Sicurezza,14
+ID92,maggiore,34,1,azione,Tutela della Salute,2
+ID93,maggiore,22,0,fantasy,Tutela della Salute,3
+ID94,maggiore,63,0,thriller,Attività Finanziaria,15
+ID95,maggiore,22,1,fantascientifico,Area Giuridico-Legale,5
+ID96,maggiore,30,0,fantascientifico,Tutela della Salute,12
+ID97,maggiore,40,0,thriller,Area Giuridico-Legale,17
+ID98,maggiore,52,1,thriller,Informazioni e Sicurezza,10
+ID99,maggiore,45,0,thriller,Informazioni e Sicurezza,12
+ID100,maggiore,45,0,sci-fi,Tutela della Salute,7
+ID101,maggiore,36,0,western,Attività Finanziaria,17
+ID102,maggiore,28,0,sci-fi,Informazioni e Sicurezza,20
+ID103,maggiore,44,0,fantascientifico,Attività Finanziaria,11
+ID104,maggiore,31,1,fantascientifico,Tutela della Salute,12
+ID105,maggiore,57,1,azione,Tutela della Salute,13
+ID106,maggiore,21,1,fantasy,Attività Finanziaria,6
+ID107,maggiore,23,0,western,Informazioni e Sicurezza,16
+ID108,maggiore,55,1,azione,Area Giuridico-Legale,20
+ID109,maggiore,59,1,fantascientifico,Informazioni e Sicurezza,19
+ID110,maggiore,71,0,fantasy,Area Giuridico-Legale,12
+ID111,maggiore,64,0,romantico,Informazioni e Sicurezza,17
+ID112,maggiore,34,0,romantico,Informazioni e Sicurezza,3
+ID113,maggiore,56,1,western,Attività Finanziaria,6
+ID114,maggiore,52,1,fantasy,Area Giuridico-Legale,7
+ID115,tenente,44,0,sci-fi,Tutela della Salute,13
+ID116,tenente,27,1,azione,Area Giuridico-Legale,10
+ID117,tenente,62,0,fantascientifico,Area Giuridico-Legale,15
+ID118,tenente,30,1,thriller,Attività Finanziaria,5
+ID119,tenente,29,0,fantasy,Area Giuridico-Legale,15
+ID120,tenente,31,0,sci-fi,Informazioni e Sicurezza,6
+ID121,tenente,29,0,romantico,Area Giuridico-Legale,12
+ID122,tenente,19,0,fantascientifico,Attività Finanziaria,10
+ID123,tenente,62,0,fantascientifico,Area Giuridico-Legale,5
+ID124,tenente,40,1,fantascientifico,Tutela della Salute,18
+ID125,tenente,69,0,western,Area Giuridico-Legale,6
+ID126,tenente,49,1,sci-fi,Area Giuridico-Legale,13
+ID127,tenente,50,1,thriller,Tutela della Salute,14
+ID128,tenente,45,0,romantico,Attività Finanziaria,14
+ID129,tenente,59,0,western,Area Giuridico-Legale,7
+ID130,tenente,39,0,romantico,Informazioni e Sicurezza,4
+ID131,tenente,53,1,romantico,Informazioni e Sicurezza,7
+ID132,tenente,35,0,thriller,Area Giuridico-Legale,6
+ID133,tenente,20,1,fantascientifico,Attività Finanziaria,10
+ID134,tenente,27,1,thriller,Area Giuridico-Legale,2
+ID135,tenente,35,0,sci-fi,Area Giuridico-Legale,17
+ID136,tenente,19,1,romantico,Informazioni e Sicurezza,15
+ID137,tenente,30,1,western,Attività Finanziaria,6
+ID138,tenente,31,1,fantasy,Informazioni e Sicurezza,5
+ID139,tenente,21,0,thriller,Informazioni e Sicurezza,9
+ID140,tenente,66,1,thriller,Tutela della Salute,7
+ID141,tenente,35,0,fantascientifico,Attività Finanziaria,4
+ID142,tenente,28,0,sci-fi,Attività Finanziaria,14
+ID143,tenente,20,0,western,Attività Finanziaria,7
+ID144,tenente,42,0,western,Informazioni e Sicurezza,15
+ID145,tenente,39,1,azione,Area Giuridico-Legale,4
+ID146,tenente,51,0,western,Informazioni e Sicurezza,6
+ID147,tenente,39,0,sci-fi,Attività Finanziaria,14
+ID148,tenente,44,1,thriller,Attività Finanziaria,18
+ID149,tenente,70,1,romantico,Tutela della Salute,18
+ID150,tenente,48,1,fantasy,Area Giuridico-Legale,6
+ID151,tenente,37,1,fantasy,Attività Finanziaria,9
+ID152,tenente,51,0,romantico,Attività Finanziaria,16
+ID153,tenente,56,1,sci-fi,Tutela della Salute,8
+ID154,tenente,34,1,western,Area Giuridico-Legale,1
+ID155,tenente,36,1,azione,Attività Finanziaria,16
+ID156,tenente,30,1,western,Attività Finanziaria,11
+ID157,tenente,47,0,fantascientifico,Area Giuridico-Legale,20
+ID158,tenente,35,0,azione,Informazioni e Sicurezza,7
+ID159,tenente,70,0,sci-fi,Informazioni e Sicurezza,12
+ID160,tenente,60,0,fantascientifico,Informazioni e Sicurezza,3
+ID161,tenente,38,1,sci-fi,Tutela della Salute,13
+ID162,tenente,64,0,thriller,Tutela della Salute,3
+ID163,tenente,65,1,sci-fi,Area Giuridico-Legale,20
+ID164,tenente,30,0,sci-fi,Tutela della Salute,10
+ID165,tenente,50,1,romantico,Attività Finanziaria,9
+ID166,tenente,22,0,thriller,Tutela della Salute,17
+ID167,tenente,68,0,western,Area Giuridico-Legale,4
+ID168,tenente,48,1,western,Area Giuridico-Legale,19
+ID169,tenente,34,0,sci-fi,Attività Finanziaria,19
+ID170,tenente,22,0,thriller,Informazioni e Sicurezza,4
+ID171,tenente,19,1,thriller,Area Giuridico-Legale,17
+ID172,tenente,24,1,sci-fi,Tutela della Salute,2
+ID173,tenente,63,1,fantascientifico,Area Giuridico-Legale,8
+ID174,tenente,63,0,romantico,Tutela della Salute,15
+ID175,tenente,53,0,fantasy,Area Giuridico-Legale,9
+ID176,tenente,27,1,fantasy,Area Giuridico-Legale,12
+ID177,tenente,27,0,fantasy,Attività Finanziaria,19
+ID178,tenente,45,0,azione,Tutela della Salute,17
+ID179,tenente,30,0,western,Tutela della Salute,19
+ID180,tenente,67,1,romantico,Attività Finanziaria,5
+ID181,tenente,33,1,azione,Tutela della Salute,3
+ID182,tenente,19,1,fantasy,Area Giuridico-Legale,3
+ID183,tenente,27,1,fantascientifico,Area Giuridico-Legale,4
+ID184,tenente,55,0,thriller,Area Giuridico-Legale,9
+ID185,tenente,43,1,romantico,Tutela della Salute,11
+ID186,tenente,46,1,romantico,Area Giuridico-Legale,20
+ID187,tenente,23,0,sci-fi,Attività Finanziaria,7
+ID188,sottotenente,53,0,fantascientifico,Tutela della Salute,13
+ID189,sottotenente,68,1,fantascientifico,Informazioni e Sicurezza,11
+ID190,sottotenente,54,1,thriller,Informazioni e Sicurezza,10
+ID191,sottotenente,69,0,fantascientifico,Informazioni e Sicurezza,18
+ID192,sottotenente,55,1,thriller,Tutela della Salute,19
+ID193,sottotenente,57,0,azione,Informazioni e Sicurezza,10
+ID194,sottotenente,38,0,sci-fi,Tutela della Salute,17
+ID195,sottotenente,39,0,azione,Attività Finanziaria,1
+ID196,sottotenente,64,0,fantasy,Tutela della Salute,14
+ID197,sottotenente,21,1,fantascientifico,Informazioni e Sicurezza,11
+ID198,sottotenente,41,1,thriller,Tutela della Salute,2
+ID199,sottotenente,19,0,fantasy,Informazioni e Sicurezza,12
+ID200,sottotenente,39,1,sci-fi,Informazioni e Sicurezza,17
+ID201,sottotenente,21,0,romantico,Tutela della Salute,14
+ID202,sottotenente,40,0,fantasy,Area Giuridico-Legale,12
+ID203,sottotenente,28,0,fantasy,Attività Finanziaria,13
+ID204,sottotenente,31,1,fantascientifico,Informazioni e Sicurezza,20
+ID205,sottotenente,64,0,thriller,Informazioni e Sicurezza,3
+ID206,sottotenente,37,0,azione,Attività Finanziaria,20
+ID207,sottotenente,20,1,azione,Tutela della Salute,4
+ID208,sottotenente,24,1,western,Informazioni e Sicurezza,6
+ID209,sottotenente,68,0,sci-fi,Area Giuridico-Legale,8
+ID210,sottotenente,55,1,romantico,Area Giuridico-Legale,9
+ID211,sottotenente,38,1,fantascientifico,Attività Finanziaria,12
+ID212,sottotenente,45,1,thriller,Attività Finanziaria,12
+ID213,sottotenente,54,0,fantascientifico,Attività Finanziaria,4
+ID214,sottotenente,54,0,fantasy,Attività Finanziaria,20
+ID215,sottotenente,66,0,azione,Area Giuridico-Legale,5
+ID216,sottotenente,47,0,sci-fi,Tutela della Salute,2
+ID217,sottotenente,27,1,western,Area Giuridico-Legale,17
+ID218,sottotenente,49,0,azione,Area Giuridico-Legale,1
+ID219,sottotenente,68,0,fantasy,Tutela della Salute,4
+ID220,sottotenente,33,0,thriller,Tutela della Salute,15
+ID221,sottotenente,42,1,azione,Informazioni e Sicurezza,5
+ID222,sottotenente,35,0,thriller,Area Giuridico-Legale,2
+ID223,sottotenente,37,0,romantico,Attività Finanziaria,18
+ID224,sottotenente,26,0,azione,Area Giuridico-Legale,12
+ID225,sottotenente,51,1,romantico,Area Giuridico-Legale,6
+ID226,sottotenente,51,0,azione,Area Giuridico-Legale,15
+ID227,sottotenente,45,1,western,Tutela della Salute,9
+ID228,sottotenente,70,1,fantasy,Attività Finanziaria,16
+ID229,sottotenente,36,0,fantasy,Attività Finanziaria,12
+ID230,sottotenente,48,0,western,Informazioni e Sicurezza,7
+ID231,sottotenente,48,1,western,Area Giuridico-Legale,11
+ID232,sottotenente,37,1,azione,Area Giuridico-Legale,12
+ID233,sottotenente,43,1,fantasy,Area Giuridico-Legale,6
+ID234,sottotenente,41,1,azione,Attività Finanziaria,15
+ID235,sottotenente,32,1,thriller,Informazioni e Sicurezza,4
+ID236,sottotenente,21,0,thriller,Attività Finanziaria,9
+ID237,luogotenente,43,0,western,Informazioni e Sicurezza,4
+ID238,luogotenente,44,0,azione,Informazioni e Sicurezza,4
+ID239,luogotenente,65,0,thriller,Area Giuridico-Legale,1
+ID240,luogotenente,69,0,sci-fi,Informazioni e Sicurezza,14
+ID241,luogotenente,59,0,fantascientifico,Informazioni e Sicurezza,20
+ID242,luogotenente,67,0,fantasy,Tutela della Salute,17
+ID243,luogotenente,38,0,romantico,Attività Finanziaria,15
+ID244,luogotenente,47,1,fantasy,Attività Finanziaria,9
+ID245,luogotenente,48,1,romantico,Informazioni e Sicurezza,3
+ID246,luogotenente,56,0,azione,Informazioni e Sicurezza,2
+ID247,luogotenente,58,0,western,Tutela della Salute,18
+ID248,luogotenente,49,1,fantasy,Attività Finanziaria,7
+ID249,luogotenente,42,0,azione,Area Giuridico-Legale,5
+ID250,luogotenente,48,1,azione,Tutela della Salute,15
+ID251,luogotenente,57,0,sci-fi,Area Giuridico-Legale,11
+ID252,maresciallo,52,0,azione,Tutela della Salute,1
+ID253,maresciallo,59,1,fantasy,Tutela della Salute,6
+ID254,maresciallo,30,1,sci-fi,Informazioni e Sicurezza,1
+ID255,maresciallo,52,0,sci-fi,Tutela della Salute,16
+ID256,maresciallo,30,1,western,Area Giuridico-Legale,3
+ID257,maresciallo,28,1,fantasy,Informazioni e Sicurezza,1
+ID258,maresciallo,54,1,fantascientifico,Tutela della Salute,13
+ID259,maresciallo,67,1,romantico,Informazioni e Sicurezza,16
+ID260,maresciallo,38,0,azione,Informazioni e Sicurezza,16
+ID261,maresciallo,32,0,thriller,Tutela della Salute,20
+ID262,maresciallo,60,1,azione,Attività Finanziaria,12
+ID263,maresciallo,29,1,azione,Attività Finanziaria,4
+ID264,maresciallo,20,1,thriller,Attività Finanziaria,17
+ID265,maresciallo,44,0,azione,Attività Finanziaria,14
+ID266,maresciallo,20,1,fantascientifico,Informazioni e Sicurezza,3
+ID267,maresciallo,26,0,azione,Informazioni e Sicurezza,1
+ID268,maresciallo,32,0,thriller,Area Giuridico-Legale,19
+ID269,maresciallo,30,0,fantascientifico,Informazioni e Sicurezza,11
+ID270,maresciallo,61,1,sci-fi,Attività Finanziaria,9
+ID271,maresciallo,64,0,thriller,Informazioni e Sicurezza,4
+ID272,maresciallo,55,1,fantascientifico,Attività Finanziaria,13
+ID273,maresciallo,22,1,romantico,Area Giuridico-Legale,12
+ID274,maresciallo,64,1,fantasy,Attività Finanziaria,13
+ID275,maresciallo,36,0,azione,Attività Finanziaria,1
+ID276,maresciallo,37,0,azione,Area Giuridico-Legale,1
+ID277,maresciallo,54,1,fantasy,Attività Finanziaria,18
+ID278,maresciallo,34,0,fantasy,Tutela della Salute,11
+ID279,maresciallo,46,0,western,Informazioni e Sicurezza,5
+ID280,maresciallo,23,0,sci-fi,Area Giuridico-Legale,17
+ID281,maresciallo,48,0,western,Tutela della Salute,6
+ID282,maresciallo,31,0,azione,Informazioni e Sicurezza,18
+ID283,maresciallo,62,1,western,Attività Finanziaria,2
+ID284,maresciallo,60,1,thriller,Informazioni e Sicurezza,10
+ID285,maresciallo,62,1,azione,Informazioni e Sicurezza,1
+ID286,maresciallo,52,1,azione,Tutela della Salute,6
+ID287,maresciallo,71,0,azione,Area Giuridico-Legale,20
+ID288,maresciallo,19,1,fantasy,Tutela della Salute,19
+ID289,maresciallo,33,1,fantascientifico,Area Giuridico-Legale,2
+ID290,sergente,60,1,romantico,Area Giuridico-Legale,4
+ID291,sergente,40,1,sci-fi,Tutela della Salute,1
+ID292,sergente,69,1,sci-fi,Tutela della Salute,16
+ID293,sergente,48,1,azione,Informazioni e Sicurezza,7
+ID294,sergente,42,0,fantasy,Area Giuridico-Legale,12
+ID295,sergente,19,1,fantascientifico,Tutela della Salute,6
+ID296,sergente,36,0,thriller,Informazioni e Sicurezza,2
+ID297,sergente,46,0,romantico,Area Giuridico-Legale,17
+ID298,sergente,58,0,fantascientifico,Tutela della Salute,9
+ID299,sergente,49,1,fantascientifico,Attività Finanziaria,12
+ID300,sergente,41,0,fantasy,Informazioni e Sicurezza,1
+ID301,sergente,67,0,fantascientifico,Attività Finanziaria,16
+ID302,sergente,42,1,romantico,Tutela della Salute,3
+ID303,sergente,70,1,sci-fi,Tutela della Salute,7
+ID304,sergente,27,0,western,Area Giuridico-Legale,3
+ID305,sergente,50,0,romantico,Attività Finanziaria,20
+ID306,sergente,55,0,thriller,Attività Finanziaria,20
+ID307,sergente,21,1,thriller,Attività Finanziaria,18
+ID308,sergente,64,0,fantascientifico,Area Giuridico-Legale,4
+ID309,sergente,31,0,fantascientifico,Area Giuridico-Legale,6
+ID310,sergente,49,1,western,Attività Finanziaria,20
+ID311,sergente,52,0,western,Tutela della Salute,7
+ID312,sergente,27,1,thriller,Area Giuridico-Legale,8
+ID313,sergente,37,1,romantico,Tutela della Salute,17
+ID314,sergente,32,1,fantasy,Informazioni e Sicurezza,17
+ID315,sergente,34,1,romantico,Area Giuridico-Legale,17
+ID316,sergente,25,0,sci-fi,Area Giuridico-Legale,4
+ID317,sergente,70,0,thriller,Attività Finanziaria,11
+ID318,sergente,51,0,azione,Informazioni e Sicurezza,1
+ID319,sergente,20,1,sci-fi,Area Giuridico-Legale,6
+ID320,primo aviere,62,1,sci-fi,Informazioni e Sicurezza,10
+ID321,primo aviere,25,0,thriller,Area Giuridico-Legale,6
+ID322,primo aviere,58,1,fantasy,Attività Finanziaria,17
+ID323,primo aviere,28,0,romantico,Tutela della Salute,15
+ID324,primo aviere,44,0,western,Tutela della Salute,1
+ID325,primo aviere,40,0,fantasy,Attività Finanziaria,16
+ID326,primo aviere,52,0,romantico,Informazioni e Sicurezza,7
+ID327,primo aviere,39,0,sci-fi,Attività Finanziaria,15
+ID328,primo aviere,34,0,romantico,Area Giuridico-Legale,15
+ID329,primo aviere,23,1,western,Informazioni e Sicurezza,14
+ID330,primo aviere,56,1,sci-fi,Area Giuridico-Legale,16
+ID331,primo aviere,37,0,fantascientifico,Attività Finanziaria,1
+ID332,primo aviere,58,0,fantasy,Informazioni e Sicurezza,2
+ID333,primo aviere,30,0,western,Area Giuridico-Legale,3
+ID334,primo aviere,70,0,fantascientifico,Tutela della Salute,18
+ID335,primo aviere,27,1,azione,Informazioni e Sicurezza,9
+ID336,primo aviere,40,1,fantascientifico,Informazioni e Sicurezza,1
+ID337,primo aviere,36,1,azione,Attività Finanziaria,6
+ID338,primo aviere,67,0,thriller,Tutela della Salute,3
+ID339,primo aviere,62,0,western,Tutela della Salute,18
+ID340,primo aviere,36,1,western,Area Giuridico-Legale,10
+ID341,primo aviere,64,0,romantico,Area Giuridico-Legale,1
+ID342,primo aviere,31,1,sci-fi,Tutela della Salute,1
+ID343,primo aviere,47,1,thriller,Attività Finanziaria,1
+ID344,primo aviere,48,0,thriller,Informazioni e Sicurezza,3
+ID345,primo aviere,32,0,western,Tutela della Salute,5
+ID346,primo aviere,32,0,western,Tutela della Salute,5
+ID347,primo aviere,20,1,thriller,Tutela della Salute,11
+ID348,primo aviere,27,0,sci-fi,Informazioni e Sicurezza,13
+ID349,primo aviere,59,1,sci-fi,Tutela della Salute,3
+ID350,primo aviere,65,1,fantascientifico,Attività Finanziaria,13
+ID351,primo aviere,25,0,sci-fi,Attività Finanziaria,20
+ID352,primo aviere,68,1,thriller,Informazioni e Sicurezza,9
+ID353,primo aviere,31,1,fantascientifico,Attività Finanziaria,16
+ID354,primo aviere,64,1,western,Area Giuridico-Legale,17
+ID355,primo aviere,64,0,fantasy,Attività Finanziaria,14
+ID356,primo aviere,70,0,thriller,Informazioni e Sicurezza,15
+ID357,primo aviere,29,1,fantasy,Attività Finanziaria,15
+ID358,primo aviere,70,0,fantascientifico,Tutela della Salute,1
+ID359,primo aviere,22,1,sci-fi,Informazioni e Sicurezza,6
+ID360,primo aviere,31,0,fantasy,Tutela della Salute,7
+ID361,primo aviere,66,0,romantico,Area Giuridico-Legale,19
+ID362,primo aviere,66,1,western,Attività Finanziaria,16
+ID363,primo aviere,55,1,azione,Area Giuridico-Legale,6
+ID364,primo aviere,34,1,sci-fi,Tutela della Salute,3
+ID365,primo aviere,44,1,thriller,Tutela della Salute,17
+ID366,primo aviere,33,1,fantasy,Tutela della Salute,20
+ID367,primo aviere,22,1,fantascientifico,Attività Finanziaria,4
+ID368,primo aviere,28,1,thriller,Attività Finanziaria,9
+ID369,primo aviere,49,1,azione,Area Giuridico-Legale,17
+ID370,primo aviere,34,0,romantico,Attività Finanziaria,7
+ID371,aviere,35,0,romantico,Tutela della Salute,14
+ID372,aviere,59,0,sci-fi,Informazioni e Sicurezza,6
+ID373,aviere,21,1,romantico,Area Giuridico-Legale,14
+ID374,aviere,40,0,romantico,Tutela della Salute,15
+ID375,aviere,19,0,fantasy,Tutela della Salute,7
+ID376,aviere,22,0,fantascientifico,Informazioni e Sicurezza,3
+ID377,aviere,32,0,thriller,Area Giuridico-Legale,14
+ID378,aviere,34,0,azione,Tutela della Salute,17
+ID379,aviere,70,1,azione,Informazioni e Sicurezza,7
+ID380,aviere,22,0,thriller,Informazioni e Sicurezza,1
+ID381,aviere,59,1,romantico,Attività Finanziaria,2
+ID382,aviere,46,0,romantico,Informazioni e Sicurezza,18
+ID383,aviere,19,1,fantascientifico,Informazioni e Sicurezza,15
+ID384,aviere,67,0,fantascientifico,Informazioni e Sicurezza,3
+ID385,aviere,48,0,fantasy,Area Giuridico-Legale,15
+ID386,aviere,28,0,azione,Tutela della Salute,9
+ID387,aviere,65,1,azione,Tutela della Salute,11
+ID388,aviere,64,1,romantico,Informazioni e Sicurezza,10
+ID389,aviere,37,1,fantascientifico,Tutela della Salute,11
+ID390,aviere,57,1,fantascientifico,Area Giuridico-Legale,8
+ID391,aviere,38,0,romantico,Informazioni e Sicurezza,5
+ID392,aviere,44,0,romantico,Attività Finanziaria,18
+ID393,aviere,19,1,romantico,Attività Finanziaria,15
+ID394,aviere,29,0,western,Attività Finanziaria,2
+ID395,aviere,38,0,western,Informazioni e Sicurezza,19
+ID396,aviere,29,1,sci-fi,Informazioni e Sicurezza,17
+ID397,aviere,46,0,sci-fi,Informazioni e Sicurezza,5
+ID398,aviere,19,0,western,Attività Finanziaria,16
+ID399,aviere,56,0,sci-fi,Tutela della Salute,5
